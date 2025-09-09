@@ -99,8 +99,12 @@ This project leverages **machine learning** to predict wine quality scores (0-10
 <td align="center"><strong>📊 Data Analysis</strong></td>
 </tr>
 <tr>
-<td><img src="https://via.placeholder.com/400x300/8B0000/FFFFFF?text=Wine+Prediction+Interface" alt="Prediction Interface" width="400"/></td>
-<td><img src="https://via.placeholder.com/400x300/DC143C/FFFFFF?text=Data+Analysis+Dashboard" alt="Data Analysis" width="400"/></td>
+<td><img src="screenshots/confusion_matrix.png" alt="Prediction Interface" width="400"/></td>
+<td><img src="screenshots/data_analysis.png" alt="Data Analysis" width="400"/></td>
+</tr>
+<tr>
+<td><img src="screenshots/feature_importance.png" alt="Feature Importance" width="400"/></td>
+<td></td>
 </tr>
 </table>
 
@@ -400,7 +404,7 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-[![Contributors](https://contributors-img.web.app/image?repo=yourusername/wine-quality-prediction)](https://github.com/yourusername/wine-quality-prediction/graphs/contributors)
+[![Contributors](https://contributors-img.web.app/image?repo=iampiyushchouhan/wine-quality-prediction-2)](https://github.com/iampiyushchouhan/wine-quality-prediction-2/graphs/contributors)
 
 *Thank you to all our amazing contributors!*
 
@@ -421,6 +425,8 @@ We welcome contributions! Here's how you can help:
 - [Streamlit Tutorial](https://streamlit.io/gallery)
 
 ### 🏆 **Similar Projects**
+- [TB Detection](https://github.com/iampiyushchouhan/tb-detection.git)
+- [Salary Prediction](https://github.com/iampiyushchouhan/Salary-Prediction-2.git)
 - [Wine Quality Analysis](https://www.kaggle.com/code/vishalyo990/wine-quality-prediction)
 - [ML Wine Classifier](https://github.com/topics/wine-quality-prediction)
 
