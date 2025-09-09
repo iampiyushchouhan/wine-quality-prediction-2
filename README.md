@@ -9,7 +9,7 @@
 [![Scikit-learn](https://img.shields.io/badge/sklearn-1.3+-orange.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-**🚀 [Live Demo](https://your-app-link.streamlit.app/) | 📊 [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) | 🎥 [Video Demo](https://your-video-link)**
+**🚀 [Live Demo](https://wine-quality-prediction-2.streamlit.app/) | 📊 [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) | 🎥 [Video Demo](https://your-video-link)**
 
 *Predict wine quality using machine learning with a beautiful, interactive web interface*
 
