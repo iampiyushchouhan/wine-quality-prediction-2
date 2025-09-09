@@ -1,0 +1,52 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# 📦 Virtual Environment
+env/
+venv/
+wine0/
+ENV/
+env.bak/
+*.env
+
+# 📁 VS Code
+.vscode/
+.history/
+
+# 📊 Data & Models
+*.csv
+*.pkl
+*.h5
+*.db
+*.sqlite3
+
+# 📷 Images
+*.png
+*.jpg
+*.jpeg
+
+# 📄 Jupyter Notebooks
+.ipynb_checkpoints/
+
+# 📜 Requirements
+pip-log.txt
+
+# 🔒 Secrets
+*.pem
+*.key
+*.crt
+*.token
+*.secret
+
+# 🚫 OS-specific
+.DS_Store
+Thumbs.db
