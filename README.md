@@ -15,17 +15,19 @@
 
 </div>
 
+---
+
 ## 🌐 Live Application
 
-![App Sleep Notice](https://your-image-url-here.png)  
-*This app may go to sleep due to inactivity.*
+<img src="screenshots/web%20interface.png" alt="App Sleep Notice" width="500"/>
 
-### > ⚠️ **Important Notice:**  
-### > This application is hosted on a free tier. If you're the first visitor after a period of inactivity, please allow **30–60 seconds** for the service to wake up. Once active, the application will respond quickly for all subsequent users.
+### *This app may go to sleep due to inactivity.*
 
-### ➡️ **[🔗 Launch Application](https://wine-quality-prediction-2.streamlit.app/)**  
+> ⚠️ **Important Notice:**  
+> This application is hosted on a free tier. If you're the first visitor after a period of inactivity, please allow **30–60 seconds** for the service to wake up. Once active, the application will respond quickly for all subsequent users.
+
+➡️ **[🔗 Launch Application](https://wine-quality-prediction-2.streamlit.app/)**  
 *(⚠️ Please allow 30–60 seconds for the service to wake up)*
-
 
 ---
 
@@ -479,8 +481,7 @@ MIT License - Free for personal and commercial use
 ### 🆘 **Need Help?**
 
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/yourusername/wine-quality-prediction/issues)
-[![Discord](https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=discord)](https://discord.gg/yourserver)
-[![Email](https://img.shields.io/badge/Email-Support-green?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iampiyushchouhan/)
 
 **Response Time: Usually within 24 hours ⚡**
 
@@ -514,9 +515,9 @@ MIT License - Free for personal and commercial use
 
 ### 🍷 **Ready to Predict Wine Quality?**
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Now-red?style=for-the-badge&logo=rocket)](https://github.com/yourusername/wine-quality-prediction)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20It-green?style=for-the-badge&logo=streamlit)](https://your-app-link.streamlit.app/)
-[![Star This Repo](https://img.shields.io/badge/Star%20This%20Repo-⭐-yellow?style=for-the-badge&logo=github)](https://github.com/yourusername/wine-quality-prediction)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20It-green?style=for-the-badge&logo=streamlit)](https://wine-quality-prediction-2.streamlit.app/)
+[![Star This Repo](https://img.shields.io/badge/Star%20This%20Repo-⭐-yellow?style=for-the-badge&logo=github)](https://github.com/iampiyushchouhan/wine-quality-prediction-2.git)
+[![GitHub Repos](https://img.shields.io/badge/GitHub-All%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/iampiyushchouhan?tab=repositories)
 
 *If you found this project helpful, please consider giving it a star! ⭐*
 
