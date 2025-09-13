@@ -412,15 +412,33 @@ We welcome contributions! Here's how you can help:
 4. **Push** to branch (`git push origin feature/AmazingFeature`)
 5. **Open** Pull Request
 
-### 🏆 **Contributors**
+---
+
+### 🏆 Contributors
 
 <div align="center">
 
-[![Contributors](https://contributors-img.web.app/image?repo=iampiyushchouhan/wine-quality-prediction-2)](https://github.com/iampiyushchouhan/wine-quality-prediction-2/graphs/contributors)
+<h3>👤 Author</h3>
 
-*Thank you to all our amazing contributors!*
+<a href="https://github.com/iampiyushchouhan">
+  <img src="https://github.com/iampiyushchouhan.png" alt="Piyush's Profile" width="120" style="border-radius: 50%;"/>
+</a>
+
+<p><strong>Piyush Chouhan</strong></p>
+<h3>🆘 Need Help?</h3>
+
+<a href="https://github.com/iampiyushchouhan/wine-quality-prediction-2/issues">
+  <img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues"/>
+</a>
+<a href="https://www.linkedin.com/in/iampiyushchouhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+</a>
+
+<p><strong>Response Time: Usually within 24 hours ⚡</strong></p>
 
 </div>
+
+
 
 ---
 
@@ -473,21 +491,7 @@ MIT License - Free for personal and commercial use
 </div>
 
 ---
-
-## 📞 **Support**
-
-<div align="center">
-
-### 🆘 **Need Help?**
-
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/yourusername/wine-quality-prediction/issues)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iampiyushchouhan/)
-
-**Response Time: Usually within 24 hours ⚡**
-
-</div>
-
-### ❓ **FAQ**
+## ❓ **FAQ**
 
 <details>
 <summary><strong>Q: How accurate is the model?</strong></summary>
