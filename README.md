@@ -9,13 +9,23 @@
 [![Scikit-learn](https://img.shields.io/badge/sklearn-1.3+-orange.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-**🚀 [Live Demo](https://wine-quality-prediction-2.streamlit.app/) | 📊 [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) | 🎥 [Video Demo](https://your-video-link)**
-
 *Predict wine quality using machine learning with a beautiful, interactive web interface*
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-quick-start) • [Usage](#-usage) • [API](#-api-documentation) • [Contributing](#-contributing)
+[Features](#-features) • [Demo](#-demo) • [Installation](#-quick-start) • [Usage](#-usage) • [Contributing](#-contributing)
 
 </div>
+
+## 🌐 Live Application
+
+![App Sleep Notice](https://your-image-url-here.png)  
+*This app may go to sleep due to inactivity.*
+
+### > ⚠️ **Important Notice:**  
+### > This application is hosted on a free tier. If you're the first visitor after a period of inactivity, please allow **30–60 seconds** for the service to wake up. Once active, the application will respond quickly for all subsequent users.
+
+### ➡️ **[🔗 Launch Application](https://wine-quality-prediction-2.streamlit.app/)**  
+*(⚠️ Please allow 30–60 seconds for the service to wake up)*
+
 
 ---
 
